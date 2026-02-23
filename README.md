@@ -4,10 +4,11 @@
 
 AtliQ Hardwares was scaling fast, and decision-making needed to be faster than spreadsheets. This dashboard is designed to give leaders **answers at a glance**—with drilldowns, dynamic KPIs, and business-ready views across functions. 
 
-![Home](Home.png)
-
 ## 📌 Project Overview
 The EV industry isn’t the only space moving fast—hardware distribution is a high-velocity business where late insights = lost money.
+
+
+![Home](Home.png)
 
 This project consolidates key business dimensions into one Power BI report:
 - **Executive View** (top-level insights across the business)
