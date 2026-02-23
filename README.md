@@ -25,8 +25,7 @@ AtliQ Hardwares needed to transition from Excel-heavy reporting to a scalable BI
 - provide consistent KPIs across teams,
 - enable fast drilldowns by customer/product/region,
 - track profitability, growth, and supply risks,
-- support decision-making across leadership and operations. :contentReference[oaicite:2]{index=2}
-
+- support decision-making across leadership and operations.
 
 ## 🧩 Dashboard Views (What’s Inside)
 
