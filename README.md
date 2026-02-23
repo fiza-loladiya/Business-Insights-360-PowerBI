@@ -34,7 +34,7 @@ AtliQ Hardwares needed to transition from Excel-heavy reporting to a scalable BI
 A top-level dashboard consolidating insights from all business dimensions to support leadership decision-making. 
 
 
-![Executive View](Executive-view.png)
+![Executive View](Executive-View.png)
 
 
 ### 2) 💰 Finance View (P&L + Performance Over Time)
@@ -87,7 +87,7 @@ Key metrics shown:
 - Risk classification indicators (e.g., OOS / EI) 
 
 📌 Add screenshot:
-![Supply Chain View](Supply-Chain-view.png)
+![Supply Chain View](SupplyChain-View.png)
 
 ## 📊 Key Metrics Included (Examples from Report)
 - Net Sales, GM%, Net Profit%
