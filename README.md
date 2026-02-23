@@ -19,6 +19,15 @@ This project consolidates key business dimensions into one Power BI report:
 
 The report includes navigation-style pages and a “home/info” layout similar to a business tool interface.
 
+## 🧩 Data Model (Relationships)
+This report uses a structured data model with fact + dimension tables to enable cross-functional analysis across Finance, Sales, Marketing, and Supply Chain.
+
+![Data Model](assets/data-model.png)
+
+## 🧠 Data Modeling Notes
+- Built a star-schema style model using **fact tables** (sales/forecast/expenses) and **dimension tables** (date, customer, product, market).
+- Relationships were designed to support filter flow across all views.
+- Added helper tables like refresh date / key measures to improve usability and reporting clarity.
 
 ## 🎯 Problem Statement
 AtliQ Hardwares needed to transition from Excel-heavy reporting to a scalable BI system that could:
@@ -100,7 +109,6 @@ Key metrics shown:
 - Customer/Product/Segment performance tables
 - Forecast Accuracy, Net Error, ABS Error
 - Market share and channel/division revenue breakdowns (as shown in Executive insights layout) 
-
 
 
 ## 🔧 Workflow (What I Did)
