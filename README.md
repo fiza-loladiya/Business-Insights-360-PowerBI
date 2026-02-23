@@ -34,6 +34,7 @@ AtliQ Hardwares needed to transition from Excel-heavy reporting to a scalable BI
 A top-level dashboard consolidating insights from all business dimensions to support leadership decision-making. 
 
 📌 Add screenshot:
+
 ![Executive View](Executive-View.png)
 
 
@@ -51,6 +52,7 @@ Example KPIs shown in the report:
 - **Net Profit%:** -13.98% :contentReference[oaicite:4]{index=4}
 
 📌 Add screenshot:
+
 ![Finance View](Finance-View.png)
 
 
@@ -63,6 +65,7 @@ Includes:
 - Unit economics breakdown visuals :contentReference[oaicite:5]{index=5}
 
 📌 Add screenshot:
+
 ![Sales View](Sales-View.png)
 
 
@@ -75,6 +78,7 @@ Includes:
 - Performance metric visuals for decision-ready insights 
 
 📌 Add screenshot:
+
 ![Marketing View](Marketing-View.png)
 
 
@@ -88,6 +92,7 @@ Key metrics shown:
 - Risk classification indicators (e.g., OOS / EI) 
 
 📌 Add screenshot:
+
 ![Supply Chain View](Supplychain-View.png)
 
 ## 📊 Key Metrics Included (Examples from Report)
