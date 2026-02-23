@@ -4,6 +4,7 @@
 
 AtliQ Hardwares was scaling fast, and decision-making needed to be faster than spreadsheets. This dashboard is designed to give leaders **answers at a glance**—with drilldowns, dynamic KPIs, and business-ready views across functions. 
 
+![Home](Home.png)
 
 ## 📌 Project Overview
 The EV industry isn’t the only space moving fast—hardware distribution is a high-velocity business where late insights = lost money.
@@ -32,8 +33,8 @@ AtliQ Hardwares needed to transition from Excel-heavy reporting to a scalable BI
 ### 1) 🏢 Executive View
 A top-level dashboard consolidating insights from all business dimensions to support leadership decision-making. 
 
-📌 Add screenshot:
-![Executive View](assets/executive-view.png)
+
+![Executive View](Executive-view.png)
 
 
 ### 2) 💰 Finance View (P&L + Performance Over Time)
@@ -49,8 +50,7 @@ Example KPIs shown in the report:
 - **GM%:** 38.08%  
 - **Net Profit%:** -13.98% :contentReference[oaicite:4]{index=4}
 
-📌 Add screenshot:
-![Finance View](assets/finance-view.png)
+![Finance View](Finance-View.png)
 
 
 ### 3) 📈 Sales View (Customer Performance + Profitability/Growth Lens)
@@ -62,7 +62,7 @@ Includes:
 - Unit economics breakdown visuals :contentReference[oaicite:5]{index=5}
 
 📌 Add screenshot:
-![Sales View](assets/sales-view.png)
+![Sales View](Sales-View.png)
 
 
 ### 4) 📣 Marketing View (Product Performance + Profitability/Growth Lens)
@@ -74,7 +74,7 @@ Includes:
 - Performance metric visuals for decision-ready insights 
 
 📌 Add screenshot:
-![Marketing View](assets/marketing-view.png)
+![Marketing View](Marketing-View.png)
 
 
 ### 5) 🚚 Supply Chain View (Forecast Accuracy + Risk Signals)
@@ -87,7 +87,7 @@ Key metrics shown:
 - Risk classification indicators (e.g., OOS / EI) 
 
 📌 Add screenshot:
-![Supply Chain View](assets/supply-chain-view.png)
+![Supply Chain View](Supply-Chain-view.png)
 
 ## 📊 Key Metrics Included (Examples from Report)
 - Net Sales, GM%, Net Profit%
