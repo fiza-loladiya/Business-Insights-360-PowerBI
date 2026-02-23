@@ -22,7 +22,7 @@ The report includes navigation-style pages and a “home/info” layout similar 
 ## 🧩 Data Model (Relationships)
 This report uses a structured data model with fact + dimension tables to enable cross-functional analysis across Finance, Sales, Marketing, and Supply Chain.
 
-![Data Model](assets/data-model.png)
+![Data Model](Data-Model.png)
 
 ## 🧠 Data Modeling Notes
 - Built a star-schema style model using **fact tables** (sales/forecast/expenses) and **dimension tables** (date, customer, product, market).
@@ -103,6 +103,15 @@ Key metrics shown:
 📌 Add screenshot:
 
 ![Supply Chain View](Supplychain-View.png)
+
+### ℹ️ Info 
+![Info](Info.png)
+
+📌 Add screenshot:
+
+### 🛟 Support
+![Support](Support.png)
+
 
 ## 📊 Key Metrics Included (Examples from Report)
 - Net Sales, GM%, Net Profit%
