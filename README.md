@@ -1,4 +1,4 @@
-# 🚀 Business Insights 360 – AtliQ Hardwares Edition (Power BI)
+# 🚀 Business Insights 360 – AtliQ Hardwares Edition (Power BI) 
 
 **Business Insights 360** is an end-to-end Power BI solution built to replace slow, Excel-based reporting with a **single, interactive dashboard** that connects **Finance, Sales, Marketing, Supply Chain, and Executive leadership** into one consistent story.
 
