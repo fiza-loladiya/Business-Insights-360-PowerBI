@@ -9,7 +9,7 @@ The EV industry isn’t the only space moving fast—hardware distribution is a 
 
 
 ![Home](Home.png)
-
+ 
 This project consolidates key business dimensions into one Power BI report:
 - **Executive View** (top-level insights across the business)
 - **Finance View** (P&L, profitability, trends)
